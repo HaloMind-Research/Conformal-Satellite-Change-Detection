@@ -39,7 +39,7 @@ Our implementation demonstrates a tight empirical match ($\pm 0.05$ pp) across a
 
 You can run our inference pipeline directly in your browser without any local setup. Click the link below to open our verified Jupyter Notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vhg-ZR1rhI3aoDxyxsfKy5fglWBYqRnV?usp=sharing)
 
 ---
 
