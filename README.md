@@ -4,22 +4,22 @@ This repository contains the official implementation and open-source assets for 
 
 ---
 
-## 📌 Key Contributions
+## Key Contributions
 * **Rigorous Reliability:** First framework to deploy Split Conformal Prediction for bi-temporal satellite image change detection.
 * **Structural Insight:** Discovery of a *near-binary confidence regime* in geospatial transformers, where spatial ambiguity manifests as Empty Prediction Sets (EPS) rather than dual-class uncertainty.
 * **Performance Boost:** Corrected a widely propagated normalization error in public BIT pipelines, achieving **F1 = 89.94%** and **IoU = 81.72%** on the LEVIR-CD test set.
 
 ---
 
-## 🗺️ System Architecture
+## System Architecture
 
-![System Architecture](architecture.png)
+![System Architecture](Architecture.png)
 
 Our pipeline feeds bi-temporal image pairs through a shared ResNet-18 Siamese encoder and a semantic tokenizer. The resulting softmax probabilities are wrapped by a conformal validation stage to generate reliable prediction sets at inference time.
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 ### Empirical Coverage vs. Theoretical Target
 Our implementation demonstrates a tight empirical match ($\pm 0.05$ pp) across all tested error bounds ($\alpha$). 
@@ -35,7 +35,7 @@ Our implementation demonstrates a tight empirical match ($\pm 0.05$ pp) across a
 
 ---
 
-## 🚀 Quick Start (Google Colab)
+## Quick Start (Google Colab)
 
 You can run our inference pipeline directly in your browser without any local setup. Click the link below to open our verified Jupyter Notebook:
 
@@ -43,7 +43,7 @@ You can run our inference pipeline directly in your browser without any local se
 
 ---
 
-## 👥 Authors & Contributors
+## Authors & Contributors
 * **Latchan Chhetri**
 * **Ankona Mukherjee**
 * **Aman Kumar**
@@ -51,7 +51,7 @@ You can run our inference pipeline directly in your browser without any local se
 
 ---
 
-## 📝 Citation
+## Citation
 If you find this work useful in your research, please consider citing our paper:
 
 ```bibtex
