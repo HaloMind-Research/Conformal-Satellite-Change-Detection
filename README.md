@@ -44,10 +44,10 @@ You can run our inference pipeline directly in your browser without any local se
 ---
 
 ## Authors & Contributors
-* **Latchan Chhetri**
 * **Ankona Mukherjee**
-* **Aman Kumar**
-* **Gaurav Sarma**
+* * **Aman Kumar**
+* **Latchan Chhetri**
+& more..
 
 ---
 
