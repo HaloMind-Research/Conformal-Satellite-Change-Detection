@@ -35,6 +35,10 @@ Our implementation demonstrates a tight empirical match ($\pm 0.05$ pp) across a
 
 ---
 
+# Dataset Used: https://www.kaggle.com/datasets/mdrifaturrahman33/levir-cd
+
+---
+
 ## Quick Start (Google Colab)
 
 You can run our inference pipeline directly in your browser without any local setup. Click the link below to open our verified Jupyter Notebook:
