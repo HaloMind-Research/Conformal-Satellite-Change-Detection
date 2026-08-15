@@ -45,7 +45,7 @@ You can run our inference pipeline directly in your browser without any local se
 
 ## Authors & Contributors
 * **Ankona Mukherjee**
-* * **Aman Kumar**
+* **Aman Kumar**
 * **Latchan Chhetri**
 & more..
 
