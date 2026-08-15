@@ -50,14 +50,3 @@ You can run our inference pipeline directly in your browser without any local se
 & more..
 
 ---
-
-## Citation
-If you find this work useful in your research, please consider citing our paper:
-
-```bibtex
-@inproceedings{chhetri2026risk,
-  title={Risk-Controlled Urban Change Detection: Conformal Prediction Wrappers for Provable Reliability in High-Resolution Satellite Imagery},
-  author={Chhetri, Latchan and Mukherjee, Ankona and Kumar, Aman and Sarma, Gaurav},
-  booktitle={International Conference on Computational Intelligence: Machine Learning for Geospatial Analytics (ICCI)},
-  year={2026}
-}
